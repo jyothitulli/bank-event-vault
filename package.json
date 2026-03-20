@@ -1,0 +1,13 @@
+{
+  "name": "bank-event-vault",
+  "version": "1.0.0",
+  "description": "Bank Account ES/CQRS API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.13.0"
+  }
+}
